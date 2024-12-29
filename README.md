@@ -12,6 +12,8 @@
   <img align="center"height="35" width="35"alt="Css"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"height="35" width="35"alt="Js"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"height="50" width="50"alt="Bootstrap" src="https://img.icons8.com/color/2x/bootstrap.png">
+  <img align="center"height="55" width="35"alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
 </div>
 
 <div> 
